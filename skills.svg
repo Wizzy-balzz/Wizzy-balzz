@@ -40,48 +40,48 @@
     @keyframes tchip17 { 0%,30% { opacity: 0 } 32%,92% { opacity: 1 } 97%,100% { opacity: 0 } }
     .tchip17 { animation: tchip17 12s ease-out infinite; }
   </style>
-  <rect width="100%" height="100%" fill="#0a0a0b" rx="14" ry="14"/>
+  <rect width="100%" height="100%" fill="#061426" rx="14" ry="14"/>
   
-  <rect x="0" y="0" width="800" height="28" fill="#0a0a0b" rx="14" ry="14"/>
-  <rect x="0" y="14" width="800" height="14" fill="#0a0a0b"/>
-  <line x1="0" y1="28" x2="800" y2="28" stroke="#5a5a64" stroke-width="0.5" stroke-opacity="0.4"/>
+  <rect x="0" y="0" width="800" height="28" fill="#061426" rx="14" ry="14"/>
+  <rect x="0" y="14" width="800" height="14" fill="#061426"/>
+  <line x1="0" y1="28" x2="800" y2="28" stroke="#16324f" stroke-width="0.5" stroke-opacity="0.4"/>
   <g opacity="0.55">
     <circle cx="22" cy="14" r="5.5" fill="#ff5f57"/>
     <circle cx="40" cy="14" r="5.5" fill="#febc2e"/>
-    <circle cx="58" cy="14" r="5.5" fill="#28c840"/>
+    <circle cx="58" cy="14" r="5.5" fill="#00cfff"/>
   </g>
-  <text x="400" y="15" fill="#5a5a64" font-family="ui-monospace, monospace" font-size="11" text-anchor="middle" dominant-baseline="middle">~/skills</text>
+  <text x="400" y="15" fill="#16324f" font-family="ui-monospace, monospace" font-size="11" text-anchor="middle" dominant-baseline="middle">~/skills</text>
 
   <!-- Command line -->
-  <text x="40" y="76.5" fill="#4ade80" font-size="14" dominant-baseline="middle">$</text>
+  <text x="40" y="76.5" fill="#38bdf8" font-size="14" dominant-baseline="middle">$</text>
   <text x="62" y="76.5" fill="#e7e7ea" font-size="14" dominant-baseline="middle">which --skills</text>
 
   <!-- Output marker -->
-  <text x="40" y="99.5" fill="#5a5a64" font-size="14" dominant-baseline="middle">→</text>
-  <text x="62" y="99.5" fill="#5a5a64" font-size="14" dominant-baseline="middle">18 matches</text>
+  <text x="40" y="99.5" fill="#16324f" font-size="14" dominant-baseline="middle">→</text>
+  <text x="62" y="99.5" fill="#16324f" font-size="14" dominant-baseline="middle">18 matches</text>
 
   <!-- Chips -->
-  <text class="tchip0" x="62" y="138.5" fill="#4ade80" font-size="14" dominant-baseline="middle">[ Solidity ]</text>
+  <text class="tchip0" x="62" y="138.5" fill="#38bdf8" font-size="14" dominant-baseline="middle">[ Solidity ]</text>
   <text class="tchip1" x="171" y="138.5" fill="#e7e7ea" font-size="14" dominant-baseline="middle">[ Hardhat ]</text>
-  <text class="tchip2" x="271" y="138.5" fill="#4ade80" font-size="14" dominant-baseline="middle">[ Ganache ]</text>
+  <text class="tchip2" x="271" y="138.5" fill="#38bdf8" font-size="14" dominant-baseline="middle">[ Ganache ]</text>
   <text class="tchip3" x="371" y="138.5" fill="#e7e7ea" font-size="14" dominant-baseline="middle">[ MetaMask ]</text>
-  <text class="tchip4" x="480" y="138.5" fill="#4ade80" font-size="14" dominant-baseline="middle">[ IPFS ]</text>
+  <text class="tchip4" x="480" y="138.5" fill="#38bdf8" font-size="14" dominant-baseline="middle">[ IPFS ]</text>
   <text class="tchip5" x="555" y="138.5" fill="#e7e7ea" font-size="14" dominant-baseline="middle">[ JavaScript ]</text>
-  <text class="tchip6" x="681" y="138.5" fill="#4ade80" font-size="14" dominant-baseline="middle">[ React ]</text>
+  <text class="tchip6" x="681" y="138.5" fill="#38bdf8" font-size="14" dominant-baseline="middle">[ React ]</text>
   <text class="tchip7" x="62" y="173.5" fill="#e7e7ea" font-size="14" dominant-baseline="middle">[ Node.js ]</text>
-  <text class="tchip8" x="162" y="173.5" fill="#4ade80" font-size="14" dominant-baseline="middle">[ Express.js ]</text>
+  <text class="tchip8" x="162" y="173.5" fill="#38bdf8" font-size="14" dominant-baseline="middle">[ Express.js ]</text>
   <text class="tchip9" x="288" y="173.5" fill="#e7e7ea" font-size="14" dominant-baseline="middle">[ Java ]</text>
-  <text class="tchip10" x="363" y="173.5" fill="#4ade80" font-size="14" dominant-baseline="middle">[ C++ ]</text>
+  <text class="tchip10" x="363" y="173.5" fill="#38bdf8" font-size="14" dominant-baseline="middle">[ C++ ]</text>
   <text class="tchip11" x="430" y="173.5" fill="#e7e7ea" font-size="14" dominant-baseline="middle">[ Git ]</text>
-  <text class="tchip12" x="497" y="173.5" fill="#4ade80" font-size="14" dominant-baseline="middle">[ GitHub ]</text>
+  <text class="tchip12" x="497" y="173.5" fill="#38bdf8" font-size="14" dominant-baseline="middle">[ GitHub ]</text>
   <text class="tchip13" x="589" y="173.5" fill="#e7e7ea" font-size="14" dominant-baseline="middle">[ Linux ]</text>
-  <text class="tchip14" x="673" y="173.5" fill="#4ade80" font-size="14" dominant-baseline="middle">[ Docker ]</text>
-  <text class="tchip15" x="62" y="208.5" fill="#4ade80" font-size="14" dominant-baseline="middle">[ VS Code ]</text>
+  <text class="tchip14" x="673" y="173.5" fill="#38bdf8" font-size="14" dominant-baseline="middle">[ Docker ]</text>
+  <text class="tchip15" x="62" y="208.5" fill="#38bdf8" font-size="14" dominant-baseline="middle">[ VS Code ]</text>
   <text class="tchip16" x="162" y="208.5" fill="#e7e7ea" font-size="14" dominant-baseline="middle">[ MySQL ]</text>
-  <text class="tchip17" x="246" y="208.5" fill="#4ade80" font-size="14" dominant-baseline="middle">[ MongoDB ]</text>
+  <text class="tchip17" x="246" y="208.5" fill="#38bdf8" font-size="14" dominant-baseline="middle">[ MongoDB ]</text>
   
 
   <!-- Trailing prompt + cursor -->
-  <text x="40" y="262.5" fill="#4ade80" font-size="14" dominant-baseline="middle">$</text>
+  <text x="40" y="262.5" fill="#38bdf8" font-size="14" dominant-baseline="middle">$</text>
   <rect class="cursor" x="62" y="254" width="8" height="15" fill="#e7e7ea"/>
 </svg>

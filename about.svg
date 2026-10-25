@@ -21,20 +21,20 @@
     .ln7 { animation: ln7 12s ease-in-out infinite }
     .ln8 { animation: ln8 12s ease-in-out infinite }
   </style>
-  <rect width="100%" height="100%" fill="#0a0a0b" rx="14" ry="14"/>
+  <rect width="100%" height="100%" fill="#061426" rx="14" ry="14"/>
   <g opacity="0.5">
     <circle cx="24" cy="24" r="6" fill="#ff5f57"/>
     <circle cx="44" cy="24" r="6" fill="#febc2e"/>
-    <circle cx="64" cy="24" r="6" fill="#28c840"/>
+    <circle cx="64" cy="24" r="6" fill="#00cfff"/>
   </g>
-  <text x="400" y="28" fill="#5a5a64" font-family="ui-monospace, monospace" font-size="11" text-anchor="middle">~ / about.md</text>
-  <g class="ln0" transform="translate(40 68)"><text fill="#4ade80">$</text><text x="20" fill="#e7e7ea">cat ~/about.md</text></g>
-  <g class="ln1" transform="translate(40 112)"><text fill="#5a5a64"># </text><text x="22" fill="#e7e7ea">Hi, I&apos;m Wizzy-balzz</text></g>
-  <g class="ln2" transform="translate(40 134)"><text fill="#4ade80">&gt;</text><text x="20" fill="#e7e7ea">I build applications that turn ideas into real-world solutions. Lately:</text></g>
-  <g class="ln3" transform="translate(40 156)"><text fill="#4ade80">&gt;</text><text x="20" fill="#e7e7ea">blockchain-based systems, full-stack applications, and AI-powered tools — with a</text></g>
-  <g class="ln4" transform="translate(40 178)"><text fill="#4ade80">&gt;</text><text x="20" fill="#e7e7ea">focus on solving practical problems, learning through debugging, and building</text></g>
-  <g class="ln5" transform="translate(40 200)"><text fill="#4ade80">&gt;</text><text x="20" fill="#e7e7ea">software that actually works.</text></g>
-  <g class="ln6" transform="translate(40 244)"><text fill="#5a5a64"># </text><text x="22" fill="#e7e7ea">tags</text></g>
-  <g class="ln7" transform="translate(40 266)"><text fill="#5a5a64">[ Blockchain Developer ]</text></g>
-  <g class="ln8" transform="translate(40 310)"><text fill="#4ade80">$</text><rect x="20" y="-7" width="9" height="14" fill="#e7e7ea" style="animation: blink 1s steps(1) infinite" /></g>
+  <text x="400" y="28" fill="#16324f" font-family="ui-monospace, monospace" font-size="11" text-anchor="middle">~ / about.md</text>
+  <g class="ln0" transform="translate(40 68)"><text fill="#38bdf8">$</text><text x="20" fill="#e7e7ea">cat ~/about.md</text></g>
+  <g class="ln1" transform="translate(40 112)"><text fill="#16324f"># </text><text x="22" fill="#e7e7ea">Hi, I&apos;m Wizzy-balzz</text></g>
+  <g class="ln2" transform="translate(40 134)"><text fill="#38bdf8">&gt;</text><text x="20" fill="#e7e7ea">I build applications that turn ideas into real-world solutions. Lately:</text></g>
+  <g class="ln3" transform="translate(40 156)"><text fill="#38bdf8">&gt;</text><text x="20" fill="#e7e7ea">blockchain-based systems, full-stack applications, and AI-powered tools — with a</text></g>
+  <g class="ln4" transform="translate(40 178)"><text fill="#38bdf8">&gt;</text><text x="20" fill="#e7e7ea">focus on solving practical problems, learning through debugging, and building</text></g>
+  <g class="ln5" transform="translate(40 200)"><text fill="#38bdf8">&gt;</text><text x="20" fill="#e7e7ea">software that actually works.</text></g>
+  <g class="ln6" transform="translate(40 244)"><text fill="#16324f"># </text><text x="22" fill="#e7e7ea">tags</text></g>
+  <g class="ln7" transform="translate(40 266)"><text fill="#16324f">[ Blockchain Developer ]</text></g>
+  <g class="ln8" transform="translate(40 310)"><text fill="#38bdf8">$</text><rect x="20" y="-7" width="9" height="14" fill="#e7e7ea" style="animation: blink 1s steps(1) infinite" /></g>
 </svg>
